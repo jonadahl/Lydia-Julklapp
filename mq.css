@@ -3,6 +3,13 @@
 @media (max-width: 400px) {
 
 
+/* ******************************
+
+    Box 1
+
+    ****************************** */
+
+
 .box1 {
 height: 700px;
 }
@@ -11,13 +18,218 @@ height: 700px;
 padding-top: 60px;
 }
 
+.marry_christmas {
+font-size: 39px;
+line-height: 20px;
+line-height: 49px;
+}
+
 h1 {
 width: 280px;
 font-size: 14px;
+line-height: 25px;
+
+}
+
+
+.wrap_content2 {
+padding-top: 90px;
+}
+
+/* ******************************
+
+    Box 2
+
+    ****************************** */
+
+
+.box2 {
+	height: 600px;
+}
+
+h2 {
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+
+.wrap_content3 {
+padding-top: 90px;
+}
+
+
+/* ******************************
+
+    Box 3
+
+    ****************************** */
+
+
+.box3 {
+	height: 600px;
+}
+
+h3{
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+.wrap_content4 {
+padding-top: 90px;
+}
+
+
+/* ******************************
+
+    Box 4
+
+    ****************************** */
+
+.box4 {
+	height: 700px;
+}
+
+h4{
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+#end_clues {
+width: 320px;
+line-height: 25px;
+}
+
+.wrap_content5 {
+padding-top: 90px;
+}
+
+/* ******************************
+
+    Box 5
+
+    ****************************** */
+
+
+.box5 {
+	height: 570px;
+}
+
+.Happy_bday {
+	width: 300px;
+font-size: 39px;
+line-height: 20px;
+letter-spacing: 1px;
+line-height: 60px;
+font-weight: bold;
+color: #fff;
+padding-top: 10px;
+padding-bottom: 30px;
+
+}
+
+#bday_photo {
+display: none;
+}
+
+h5{
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+.wrap_btn {
+width: 300px;
+}
+
+.btn5 {
+padding: 15px 40px 15px 40px;
+}
+
+
+a.btn5:hover + #showedClickable {
+    width: 250px;
 }
 
 
 
+
+/* ******************************
+
+    Box 6
+
+    ****************************** */
+
+
+
+.box6 {
+	height: 500px;
+	margin-top: -390px;
+}
+
+h6{
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+.wrap_content6 {
+padding-top: 90px;
+}
+
+    /* ******************************
+
+    Box 7
+
+    ****************************** */
+
+
+.box7 {
+	height: 500px;
+}
+
+.text7{
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+.wrap_content7 {
+padding-top: 90px;
+}
+
+    /* ******************************
+
+    Box 8
+
+    ****************************** */
+
+
+.box8 {
+	height: 500px;
+}
+
+.text8{
+width: 280px;
+font-size: 14px;
+line-height: 25px;
+}
+
+.wrap_content8 {
+padding-top: 220px;
+}
+
+.wrap_heart {
+width: 100px;
+}
+
+
+
+
+
+}
 
  
 

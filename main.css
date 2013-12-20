@@ -347,6 +347,10 @@ h5 {
     padding-bottom: 50px;
 }
 
+#Happy_bday {
+  display: none;
+}
+
 .wrap_btn {
     width: 800px;
     height: 500px;
@@ -388,7 +392,7 @@ a.btn5:hover + #showedClickable {
     display:block;
     font-family: 'Droid Sans', sans-serif;
     margin-top: 20px;  
-    width: 300px;
+    width: 250px;
     border-radius: 5px;
     cursor: pointer;
     color: #fff;
@@ -769,22 +773,6 @@ h6 {
 }
 
 
-
-
-
-@media (max-width: 400px) {
-
-
-h1 {
-width: 280px;
-font-size: 14px;
-}
-
-
-
-
- 
-}
 
 
 
