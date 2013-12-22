@@ -43,3 +43,10 @@ $(".btn7").click(function() {
         scrollTop: $(".box8").offset().top
     }, 1000);
 });
+
+
+
+$("#to_top").click(function() {
+  $("html, body").animate({ scrollTop: 0 }, "slow");
+  return false;
+});

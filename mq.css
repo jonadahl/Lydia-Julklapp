@@ -166,7 +166,7 @@ a.btn5:hover + #showedClickable {
 
 
 .box6 {
-	height: 500px;
+	height: 610px;
 	margin-top: -320px;
 }
 
@@ -209,7 +209,7 @@ padding-top: 90px;
 
 
 .box8 {
-	height: 500px;
+	height: 561px;
 }
 
 .text8{
@@ -227,7 +227,9 @@ width: 100px;
 }
 
 
-
+#to_top p {
+margin-top: 90px;
+}
 
 
 }

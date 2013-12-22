@@ -328,13 +328,10 @@ h4 {
 
 }
 .wrap_content5 {
-    padding-top: 350px;
+    padding-top: 300px;
 }
 
 
-#bday_photo {
-    padding-bottom: 30px;
-}
 
 h5 {
     width: 700px;
@@ -353,8 +350,10 @@ h5 {
 
 .wrap_btn {
     width: 800px;
-    height: 500px;
+    height: 460px;
 }
+
+
 
 
 .btn5 {
@@ -539,7 +538,7 @@ a.btn5:hover + #showedClickable {
 
 }
 .wrap_content6 {
-    padding-top: 350px;
+    padding-top: 270px;
 }
 
 
@@ -598,7 +597,11 @@ h6 {
 
 }
 .wrap_content7 {
-    padding-top: 350px;
+    padding-top: 320px;
+}
+
+#gift {
+  padding-bottom: 20px;
 }
 
 
@@ -650,7 +653,7 @@ h6 {
 
 .box8 {
      width: 100%;
-    height: 1000px;
+    height: 950px;
   background:#D8D8D8;
 
 
@@ -661,7 +664,7 @@ h6 {
 
 
  .text8{
-    width: 700px;
+    width: 600px;
     height: auto;
     font-size: 20px;
     font-weight: 200;
@@ -669,7 +672,6 @@ h6 {
     line-height: 35px;
     color: #B4B4B4;
     padding-bottom: 20px;
-    text-transform: uppercase;
 }
 
 
@@ -773,7 +775,23 @@ h6 {
 }
 
 
+    #to_top p {
+      width: 200px;
+    font-family: 'Droid Sans', sans-serif;
+    font-size: 14px;
+    font-weight: 200;
+    letter-spacing: 1px;
+    color: #fff;
+    margin-top: 300px;
+    padding-bottom: 30px;
+    cursor: pointer;
 
+
+    }
+
+ #to_top p:hover {
+  color: #B4B4B4;
+ }
 
 
 
